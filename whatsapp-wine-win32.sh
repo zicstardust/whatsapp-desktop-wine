@@ -1,3 +1,4 @@
+#!/bin/bash
 #requisitos
 #7zip, wine, imagemagick, curl
 
